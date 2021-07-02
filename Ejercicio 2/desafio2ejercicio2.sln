@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "desafio2ejercicio2", "desafio2ejercicio2\desafio2ejercicio2.dtproj", "{8DF9BA8D-DF69-4D21-A53C-900D83A79843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF9BA8D-DF69-4D21-A53C-900D83A79843}.Development|Default.ActiveCfg = Development
+		{8DF9BA8D-DF69-4D21-A53C-900D83A79843}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43367EA3-2D34-4C46-877F-D2E0A597368C}
+	EndGlobalSection
+EndGlobal
